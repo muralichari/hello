@@ -1,0 +1,2 @@
+# hello
+Initial go project
